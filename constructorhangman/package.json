@@ -1,0 +1,19 @@
+{
+  "name": "constructorhangman",
+  "version": "1.0.0",
+  "description": "Basic hangman game untilizing inquirer and constructors",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurenc234/Constructor-Hangman.git"
+  },
+  "author": "Lauren Cowen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurenc234/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/laurenc234/Constructor-Hangman#readme"
+}
